@@ -6,7 +6,7 @@
     <img width="50" alt="LinkedIn" src="https://github.com/user-attachments/assets/d2bc4f0e-a2b5-442c-b84d-19125b80d562" />
   </a>
   <a href="https://markconnor-personal.vercel.app/">
-    <img width="50" alt="image" src="[![Uploading image.png…]()](https://github.com/user-attachments/assets/d38f59cc-0097-4d8b-9f8e-f139062e887e)" />
+    <img width="50" alt="image" src="https://github.com/user-attachments/assets/d38f59cc-0097-4d8b-9f8e-f139062e887e" />
   </a>
   
 </div>

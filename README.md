@@ -3,9 +3,14 @@
 </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/mark-connor2003">
-  <img width="50" alt="LinkedIn" src="https://github.com/user-attachments/assets/d2bc4f0e-a2b5-442c-b84d-19125b80d562" />
+    <img width="50" alt="LinkedIn" src="https://github.com/user-attachments/assets/d2bc4f0e-a2b5-442c-b84d-19125b80d562" />
   </a>
+  <a href="https://markconnor-personal.vercel.app/">
+    <img width="50" alt="image" src="[![Uploading image.png…]()](https://github.com/user-attachments/assets/d38f59cc-0097-4d8b-9f8e-f139062e887e)" />
+  </a>
+  
 </div>
+<br>
 <div align="center">
   <img src="hiatus_kiayote.gif" width="700" alt="hiatus kaiyote gif" />
 </div>

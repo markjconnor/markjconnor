@@ -6,8 +6,8 @@
   <img width="50" alt="LinkedIn" src="https://github.com/user-attachments/assets/d2bc4f0e-a2b5-442c-b84d-19125b80d562" />
 </a>
 </p>
-<p><img src="https://media.giphy.com/media/DbemeSXQNzaJ2QiySb/giphy.gif" width="300" alt="hiatus kaiyote gif" />
-</p>
+<img src="https://media.giphy.com/media/DbemeSXQNzaJ2QiySb/giphy.gif" width="300" alt="hiatus kaiyote gif" />
+
 
 ```yaml
 name: Mark Connor

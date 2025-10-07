@@ -6,7 +6,10 @@
   <img width="50" alt="LinkedIn" src="https://github.com/user-attachments/assets/d2bc4f0e-a2b5-442c-b84d-19125b80d562" />
 </a>
 </p>
-<img src="hiatus_kiayote.gif" width="300" alt="hiatus kaiyote gif" />
+<div align="center">
+  <img src="hiatus_kiayote.gif" width="800" alt="hiatus kaiyote gif" />
+</div>
+
 
 
 ```yaml

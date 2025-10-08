@@ -34,7 +34,7 @@ fields_of_interest:
     "Web Developement"
   ]
 
-currently_learning: ["Vim", "Docker", "Kubernetes"]
+currently_learning: ["Ansible", "Vim", "Docker", "Kubernetes"]
 hobbies: ["Poker", "Piano", "Cinema"]
 ```
 

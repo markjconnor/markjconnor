@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello%20there!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hello%20there!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/mark-connor2003" target="_blank">

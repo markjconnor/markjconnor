@@ -1,6 +1,6 @@
-<p>
+<h2>
   Hi there
-</p>
+</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/mark-connor2003" target="_blank">
     <img width="50" alt="LinkedIn" src="https://github.com/user-attachments/assets/d2bc4f0e-a2b5-442c-b84d-19125b80d562"/>

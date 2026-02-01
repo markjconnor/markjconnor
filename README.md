@@ -1,4 +1,4 @@
-<h2 style="text-align:center;">
+<h2 style="margin: 0 auto; width: fit-content;">
   Hi there
 </h2>
 <div align="center">

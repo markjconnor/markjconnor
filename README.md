@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello%20there!&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+#Hi there
 <div align="center">
   <a href="https://www.linkedin.com/in/mark-connor2003" target="_blank">
     <img width="50" alt="LinkedIn" src="https://github.com/user-attachments/assets/d2bc4f0e-a2b5-442c-b84d-19125b80d562"/>

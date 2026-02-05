@@ -16,28 +16,6 @@
 </div>
 <br><br>
 
-```yaml
-name: Mark Connor
-located_in: London, UK
-education:
-  [
-    "Masters in Software Systems Engineering at UCL"
-    "Bachelors in Computer Science and Business at Trinity College Dublin"
-  ]
-
-fields_of_interest:
-  [
-    "Distributed Systems"
-    "Cloud Computing"
-    "DevOps"
-    "Data Science"
-    "Web Developement"
-  ]
-
-currently_learning: ["Ansible", "Vim", "Docker", "Kubernetes"]
-hobbies: ["Poker", "Piano", "Cinema"]
-```
-
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tmux/tmux-original.svg" alt="tmux" width="45" height="45"/>

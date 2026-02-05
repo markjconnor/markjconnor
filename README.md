@@ -1,6 +1,4 @@
-<h1>
-  Hi there
-</h1>
+# Hi there
 <div align="center">
   <a href="https://www.linkedin.com/in/mark-connor2003" target="_blank">
     <img width="50" alt="LinkedIn" src="https://github.com/user-attachments/assets/d2bc4f0e-a2b5-442c-b84d-19125b80d562"/>
@@ -16,7 +14,7 @@
 </div>
 <br><br>
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+## Some Tools I Have Used and Learned
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tmux/tmux-original.svg" alt="tmux" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45"/>

@@ -11,7 +11,7 @@
 </div>
 <br><br>
 
-## Some Tools I Have Used and Learned
+## Some Tools I Have Used
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,git,vim,aws,py,java,terraform,ansible,firebase,vscode,bash" alt="My Skills" />
